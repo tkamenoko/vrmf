@@ -1,0 +1,23 @@
+{
+  "name": "vrmf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "T. Kameyama <tkamenoko@vivaldi.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.5",
+    "@tsconfig/strictest": "^2.0.5",
+    "syncpack": "^13.0.4",
+    "typescript": "^5.8.3",
+    "typesync": "^0.14.3",
+    "vitest": "^3.2.4",
+    "wireit": "^0.14.12"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
