@@ -1,0 +1,7 @@
+{
+  "name": "@vrmf/realworld",
+  "version": "1.0.0",
+  "dependencies": {
+    "vrmf": "0.0.1"
+  }
+}

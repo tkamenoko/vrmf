@@ -6,7 +6,8 @@
       "complexity": {
         "noExcessiveCognitiveComplexity": "error",
         "useLiteralKeys": "off"
-      }
+      },
+      "style": { "useSelfClosingElements": "error" }
     }
   },
   "formatter": {
